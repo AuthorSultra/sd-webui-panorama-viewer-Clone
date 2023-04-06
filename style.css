@@ -1,0 +1,16 @@
+.panogalviewer-iframe body {
+    overflow: hidden;
+}
+
+#panoviewer-iframe {
+    width:100%;
+    height:100vh;
+    overflow: hidden;
+}
+
+.panogalviewer-iframe {
+    z-index: inherit;
+    flex: auto;
+    width:100%;
+    height:100%;
+}
